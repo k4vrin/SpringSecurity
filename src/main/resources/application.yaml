@@ -1,3 +1,7 @@
 spring:
   application:
     name: SpringSecurity
+  security:
+    user:
+      name: kavrin
+      password: 123456
